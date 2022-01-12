@@ -1,5 +1,5 @@
-import { URL } from "url";
 import { blake2bHex } from "blakejs";
+import { Buffer } from "buffer";
 
 /* blake2b("Soatok Dreamseeker's dunktag function") */
 const DUNKTAG_KEY: Buffer = Buffer.from('572a7ff65e3969e1d1f43911cc07ff82463e5ae113f248dc9035d5e21aabad85', 'hex');
