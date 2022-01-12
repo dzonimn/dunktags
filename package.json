@@ -1,6 +1,6 @@
 {
   "name": "dunktags",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Generate hashtags from bad tweet IDs for dunking on them without boosting engagement",
   "main": "index.ts",
   "scripts": {
