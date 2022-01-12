@@ -16,7 +16,7 @@ otherwise tempting to dunk on.
 
 For example:
 
-![A bad tweet by a dumb organization](docs/bad-tweet.jpg)
+![A bad tweet by a dumb organization](https://raw.githubusercontent.com/soatok/dunktags/master/docs/bad-tweet.jpg)
 
 Whenever something like this happens, a lot of people give into the temptation to dunk on
 these clowns.
@@ -28,7 +28,7 @@ further "the conversation".
 
 Naturally, shitty people are clued into this fact, and will act accordingly.
 
-![Milking outrage for more engagement](docs/bad-tweet-2.png)
+![Milking outrage for more engagement](https://raw.githubusercontent.com/soatok/dunktags/master/docs/bad-tweet-2.png)
 
 **Why do well-meaning people keep falling for this?**
 
